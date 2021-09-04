@@ -1,5 +1,10 @@
 # Hey, get some stats
 
-[![eckon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eckon&count_private=true&show_icons=true&theme=gruvbox&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![eckon's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eckon&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eckon&count_private=true&show_icons=true&theme=gruvbox&hide_title=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eckon&layout=compact&theme=gruvbox" />
+  </a>
+</div>
